@@ -2,6 +2,8 @@
 
 body {   
 background-color: rgb(28, 126, 172);
+color:beige;
+font-family:'Bebas Neue', cursive;
 }
 
 h1 {
@@ -11,6 +13,4 @@ h1 {
     text-shadow: 3px 3px 2px rgba(165, 160, 160, 0.241);
     font-family: 'Bebas Neue', cursive;
 }
-script {
-
-}
+ 
